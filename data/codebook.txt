@@ -1,0 +1,12 @@
+Codebook for the categorical variables registered in the data set files (see csv files).
+
+the variable `sex` codes as follows:
+0 -> man
+1 -> women
+
+the variable `age group` reads as follows:
+20 -> 20-29 yrs-old
+30 -> 30-39 yrs-old
+40 -> 40-49 yrs-old
+50 -> 50-59 yrs-old
+60 -> 60 yrs-ol and over
